@@ -74,3 +74,14 @@
 - In this lab, you will learn and implement two deep reinforcement algorithms by completing the following two tasks: 
   (1) solve LunarLander-v2 using deep Q-network (DQN), and 
   (2) solve LunarLanderContinuous-v2 using deep deterministic policy gradient (DDPG).
+
+---
+
+# Final Project
+### Introduction
+- We would like to build an image extension model, which has broad applications in image editing, computational photography and computer graphics.
+- Comparing with inpainting model "Context Encoder" as baseline, we implement conditioning in a GAN to train an image extension model.
+- We add a pretrained model "Inception_v3" to select image features and compare with the discriminator results, in order to improve the model’s performance.
+- Experiment results show that models trained with conditioning have better performance than baseline.
+
+
