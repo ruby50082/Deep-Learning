@@ -5,5 +5,3 @@
 - For example, given “red cube” and “blue cylinder”, your model should generate the synthetic images with red cube and blue cylinder and meanwhile, input your generated images to a pre-trained classifier for evaluation.
 
 ![image](https://user-images.githubusercontent.com/39916963/146383006-6ab7c3bf-5f8e-4bdb-882d-3aa35b6ade69.png)
-
-
